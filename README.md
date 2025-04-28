@@ -17,8 +17,7 @@ Multiple images showcasing the various interfaces that are part of the study, or
 3. **code_survey.ipynb:** File encompasses statistical analysis derived from user-provided survey responses
 
 ### 4. Tables:
-1. **table_survey_questions.jpg:** Exact survey questions (translated).
-2. **table_demographics.jpg:** Table with demographic information from our survey.
+1. **table_demographics.jpg:** Table with demographic information from our survey.
 3. **table_position_overview.jpg:** Table with ranking of movie chosen by the user in the final phase.
 4. **table_survey_mean_and_sd.jpg:** Table with means and standard deviations for Q1 to Q17.
  
