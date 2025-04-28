@@ -1,0 +1,8 @@
+Give a rating for this description.
+Very bad | Bad | Neutral | Good | Very good
+
+This song seems to match my taste.
+Strongly disagree | Disagree | Neutral | Agree | Strongly agree
+
+Based on this description, I would add this song to my playlist.
+Strongly disagree | Disagree | Neutral | Agree | Strongly agree
