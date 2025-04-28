@@ -1,0 +1,8 @@
+Dê uma nota para essa descrição.
+Muito ruim | Ruim | Neutra | Boa | Muito boa
+
+Essa música parece combinar com meu gosto.
+Discordo totalmente | Discordo | Neutro | Concordo | Concordo totalmente
+
+Com base nessa descrição, eu adicionaria essa música à minha playlist.
+Discordo totalmente | Discordo | Neutro | Concordo | Concordo totalmente
