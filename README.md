@@ -1,5 +1,5 @@
 # README: Resource Repository
-This is the online repository for the paper 'User Perception of Fairness-Calibrated Recommendations'.
+This is the online repository for the paper 'Towards Personality-Aware Explanations for Music Recommendations Using Generative AI'.
 
 
 ## Folders' Content
