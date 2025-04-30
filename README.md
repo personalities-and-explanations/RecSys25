@@ -23,11 +23,12 @@ Multiple images showcasing the various interfaces that are part of the study, or
 ### 3. Scripts (with tables):
 
 #### RQ1 – Explanation Preference
-1. **RQ1_chisquare.ipynb**: Script with the chi-square test to evaluate whether certain explanation types were selected more frequently than expected.
-2. **RQ1_psichology_analysis.ipynb**: Script with the analysis comparing selected explanations to psychological theories on trait-congruent preferences.
+1. **RQ1_LexicalEvaluation.ipynb**: Scripts to translate, stem, and match explanation words to Big Five personality traits, and compute precision, recall, and F1-score to evaluate alignment.
+2. **RQ1_chisquare.ipynb**: Script with the chi-square test to evaluate whether certain explanation types were selected more frequently than expected.
+
 
 #### RQ2 – Explanation Evaluation
-1. **RQ2_Friedman.ipynb**: Script with the Friedman and Wilcoxon tests to compare user ratings (e.g., quality, taste, listen) across explanation types.
+1. **RQ2_Friedman.ipynb**: Script with the Friedman and Wilcoxon tests to compare user ratings (e.g., quality, acuracy, persuasiveness) across explanation types.
 2. **RQ2_chi.ipynb**: Script with the chi-square test to evaluate differences in categorical user ratings across explanation types.
 3. **RQ2_meanSD.ipynb**: Script with the mean and standard deviation calculation for user ratings per explanation type and evaluation category.
 
