@@ -23,6 +23,6 @@ Multiple images showcasing the various interfaces that are part of the study, or
 ### 3. Scripts (with tables):
 
 #### RQ1 – Explanation Preference
-1. **`RQ1_chisquare.ipynb`**: Script with the chi-square test to evaluate whether certain explanation types were selected more frequently than expected.
-2. **`RQ1_psichology_analysis.ipynb`**: Script with the analysis comparing selected explanations to psychological theories on trait-congruent preferences.
+1. **RQ1_chisquare.ipynb**: Script with the chi-square test to evaluate whether certain explanation types were selected more frequently than expected.
+2. **RQ1_psichology_analysis.ipynb**: Script with the analysis comparing selected explanations to psychological theories on trait-congruent preferences.
 
