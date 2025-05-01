@@ -2,7 +2,7 @@
 This is the online repository for the paper 'Towards Personality-Aware Explanations for Music Recommendations Using Generative AI'.
 
 
-## Folders' Content
+## Content of the Folders
 
 ### 1. Datasets:
 1. **users_data.csv:** This file contains the primary dataset gathered during our main study. It includes user interactions, responses, and behavioral logs.
