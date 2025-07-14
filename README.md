@@ -1,6 +1,22 @@
 # README: Resource Repository
 This is the online repository for the paper 'Towards Personality-Aware Explanations for Music Recommendations Using Generative AI'.
 
+## Citation
+If you use this dataset, code, or prompts in your research, please cite the following paper:
+
+
+``bibtex
+@inproceedings{pires2025personality,
+  title     = {Towards Personality-Aware Explanations for Music Recommendations Using Generative AI},
+  author    = {Gabrielle Alves and Dietmar Jannach and Luan Souza and Marcelo Manzato},
+  booktitle = {Proceedings of the 19th ACM Conference on Recommender Systems (RecSys)},
+  year      = {2025},
+  isbn         = {979-8-4007-1364-4/2025/09},
+  publisher    = {Association for Computing Machinery},
+  address      = {Prague, Czech Republic},
+  doi          = {10.1145/3705328.3748032},
+  url          = {https://doi.org/10.1145/3705328.3748032}
+}
 
 ## Content of the Folders
 
