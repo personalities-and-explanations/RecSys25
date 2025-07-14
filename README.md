@@ -36,7 +36,7 @@ If you use this dataset, code, or prompts in your research, please cite the foll
 ### 4. Screens:
 Multiple images showcasing the various interfaces that are part of the study, organized sequentially to match the progression in the experiment.
 
-### 3. Scripts (with tables):
+### 5. Scripts (with tables):
 
 #### RQ1 – Explanation Preference
 1. **RQ1_LexicalEvaluation.ipynb**: Scripts to translate, stem, and match explanation words to Big Five personality traits, and compute precision, recall, and F1-score to evaluate alignment.
