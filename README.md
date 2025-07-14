@@ -4,9 +4,7 @@ This is the online repository for the paper 'Towards Personality-Aware Explanati
 ## Citation
 If you use this dataset, code, or prompts in your research, please cite the following paper:
 
-
-``bibtex
-@inproceedings{pires2025personality,
+@inproceedings{2025personality,
   title     = {Towards Personality-Aware Explanations for Music Recommendations Using Generative AI},
   author    = {Gabrielle Alves and Dietmar Jannach and Luan Souza and Marcelo Manzato},
   booktitle = {Proceedings of the 19th ACM Conference on Recommender Systems (RecSys)},
